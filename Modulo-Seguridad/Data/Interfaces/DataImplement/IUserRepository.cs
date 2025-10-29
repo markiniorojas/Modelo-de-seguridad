@@ -1,0 +1,15 @@
+﻿using Data.Interfaces.DataBasic;
+using Entity.Model;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Data.Interfaces.DataImplement
+{
+    public interface IUserRepository : IData<User>
+    {
+        Task<User?> GetByIdWithPersonAsync(int id);
+    }
+}
