@@ -1,0 +1,917 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ADSO2025\\BackCon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\models\\vehiclesupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\models\\vehiclesupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\models\\saledetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\models\\saledetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\adso2025\\backcon\\business\\implementacion\\concesionario\\sellerbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\implementacion\\concesionario\\sellerbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\adso2025\\backcon\\business\\interfaces\\concesionario\\isellerbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\interfaces\\concesionario\\isellerbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\adso2025\\backcon\\business\\interfaces\\concesionario\\isaledetailsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\interfaces\\concesionario\\isaledetailsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\adso2025\\backcon\\business\\interfaces\\concesionario\\ivehiclesupplierbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\interfaces\\concesionario\\ivehiclesupplierbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\adso2025\\backcon\\business\\interfaces\\concesionario\\ivehiclebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\interfaces\\concesionario\\ivehiclebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\adso2025\\backcon\\business\\interfaces\\concesionario\\isupplierbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\interfaces\\concesionario\\isupplierbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\adso2025\\backcon\\business\\interfaces\\concesionario\\isalebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\interfaces\\concesionario\\isalebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\adso2025\\backcon\\business\\interfaces\\concesionario\\iclientbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\interfaces\\concesionario\\iclientbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\adso2025\\backcon\\business\\implementacion\\concesionario\\vehiclesupplierbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\implementacion\\concesionario\\vehiclesupplierbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\adso2025\\backcon\\business\\implementacion\\concesionario\\vehiclebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\implementacion\\concesionario\\vehiclebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\adso2025\\backcon\\business\\implementacion\\concesionario\\supplierbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\implementacion\\concesionario\\supplierbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\adso2025\\backcon\\business\\implementacion\\concesionario\\saledetailsbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\implementacion\\concesionario\\saledetailsbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\adso2025\\backcon\\business\\implementacion\\concesionario\\clientbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\implementacion\\concesionario\\clientbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\adso2025\\backcon\\business\\implementacion\\concesionario\\salebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\implementacion\\concesionario\\salebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD29BC01-3E6B-7E3C-8940-A61C0C42100C}|Utilities\\Utilities.csproj|c:\\adso2025\\backcon\\utilities\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD29BC01-3E6B-7E3C-8940-A61C0C42100C}|Utilities\\Utilities.csproj|solutionrelative:utilities\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|c:\\adso2025\\backcon\\data\\interfaces\\concesionario\\ivehiclesupplierdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|solutionrelative:data\\interfaces\\concesionario\\ivehiclesupplierdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|c:\\adso2025\\backcon\\data\\interfaces\\concesionario\\ivehicledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|solutionrelative:data\\interfaces\\concesionario\\ivehicledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|c:\\adso2025\\backcon\\data\\interfaces\\concesionario\\isupplierdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|solutionrelative:data\\interfaces\\concesionario\\isupplierdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|c:\\adso2025\\backcon\\data\\interfaces\\concesionario\\isaledetailsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|solutionrelative:data\\interfaces\\concesionario\\isaledetailsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|c:\\adso2025\\backcon\\data\\interfaces\\concesionario\\isaledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|solutionrelative:data\\interfaces\\concesionario\\isaledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|c:\\adso2025\\backcon\\data\\interfaces\\concesionario\\iclientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|solutionrelative:data\\interfaces\\concesionario\\iclientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|c:\\adso2025\\backcon\\data\\interfaces\\concesionario\\isellerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|solutionrelative:data\\interfaces\\concesionario\\isellerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|c:\\adso2025\\backcon\\data\\implementacion\\concesionario\\sellerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|solutionrelative:data\\implementacion\\concesionario\\sellerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\datainit\\sellerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\datainit\\sellerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|Web\\Web.csproj|c:\\adso2025\\backcon\\web\\controllers\\concesionario\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|Web\\Web.csproj|solutionrelative:web\\controllers\\concesionario\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|c:\\adso2025\\backcon\\data\\implementacion\\concesionario\\clientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|solutionrelative:data\\implementacion\\concesionario\\clientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\models\\base\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\models\\base\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\datainit\\saledetailsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\datainit\\saledetailsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\datainit\\saleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\datainit\\saleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\datainit\\vehiclesupplierconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\datainit\\vehiclesupplierconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\datainit\\vehicleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\datainit\\vehicleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\datainit\\supplierconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\datainit\\supplierconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\datainit\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\datainit\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\dtos\\response\\saleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\dtos\\response\\saleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\dtos\\response\\saledetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\dtos\\response\\saledetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\models\\base\\genericmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\models\\base\\genericmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\dtos\\response\\vehiclesupplierresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\dtos\\response\\vehiclesupplierresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\dtos\\response\\vehicleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\dtos\\response\\vehicleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\dtos\\response\\supplierresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\dtos\\response\\supplierresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\dtos\\response\\sellerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\dtos\\response\\sellerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\dtos\\response\\clientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\dtos\\response\\clientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\dtos\\request\\vehiclesupplierrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\dtos\\request\\vehiclesupplierrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\dtos\\request\\vehiclerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\dtos\\request\\vehiclerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\dtos\\request\\supplierrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\dtos\\request\\supplierrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\dtos\\request\\sellerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\dtos\\request\\sellerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\dtos\\request\\salerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\dtos\\request\\salerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\dtos\\request\\saledetailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\dtos\\request\\saledetailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|c:\\adso2025\\backcon\\entitys\\dtos\\request\\clientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6102D14-525C-78BA-770F-459A8A96CEEA}|Entitys\\Entitys.csproj|solutionrelative:entitys\\dtos\\request\\clientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SellerBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\SellerBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Implementacion\\concesionario\\SellerBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\SellerBusiness.cs",
+              "RelativeToolTip": "Business\\Implementacion\\concesionario\\SellerBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:51:50.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISaleBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\ISaleBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\concesionario\\ISaleBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\ISaleBusiness.cs",
+              "RelativeToolTip": "Business\\Interfaces\\concesionario\\ISaleBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:53:05.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISellerBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\ISellerBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\concesionario\\ISellerBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\ISellerBusiness.cs",
+              "RelativeToolTip": "Business\\Interfaces\\concesionario\\ISellerBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:52:03.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "Entitys\\Models\\Seller.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Models\\Seller.cs",
+              "RelativeToolTip": "Entitys\\Models\\Seller.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:43:06.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Entitys\\Models\\Sale.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Models\\Sale.cs",
+              "RelativeToolTip": "Entitys\\Models\\Sale.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:35:21.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaleDetails.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Models\\SaleDetails.cs",
+              "RelativeDocumentMoniker": "Entitys\\Models\\SaleDetails.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Models\\SaleDetails.cs",
+              "RelativeToolTip": "Entitys\\Models\\SaleDetails.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:42:56.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "Entitys\\Models\\Supplier.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Models\\Supplier.cs",
+              "RelativeToolTip": "Entitys\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:43:15.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Entitys\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Entitys\\Models\\Vehicle.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA9wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:43:23.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleSupplier.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Models\\VehicleSupplier.cs",
+              "RelativeDocumentMoniker": "Entitys\\Models\\VehicleSupplier.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Models\\VehicleSupplier.cs",
+              "RelativeToolTip": "Entitys\\Models\\VehicleSupplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:43:35.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Entitys\\Models\\Client.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Models\\Client.cs",
+              "RelativeToolTip": "Entitys\\Models\\Client.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:34:23.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IVehicleSupplierBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\IVehicleSupplierBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\concesionario\\IVehicleSupplierBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\IVehicleSupplierBusiness.cs",
+              "RelativeToolTip": "Business\\Interfaces\\concesionario\\IVehicleSupplierBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:53:11.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISaleDetailsData.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\ISaleDetailsData.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\concesionario\\ISaleDetailsData.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\ISaleDetailsData.cs",
+              "RelativeToolTip": "Business\\Interfaces\\concesionario\\ISaleDetailsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:53:06.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISupplierBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\ISupplierBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\concesionario\\ISupplierBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\ISupplierBusiness.cs",
+              "RelativeToolTip": "Business\\Interfaces\\concesionario\\ISupplierBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:53:08.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IVehicleBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\IVehicleBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\concesionario\\IVehicleBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\IVehicleBusiness.cs",
+              "RelativeToolTip": "Business\\Interfaces\\concesionario\\IVehicleBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:53:09.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IClientBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\IClientBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\concesionario\\IClientBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\IClientBusiness.cs",
+              "RelativeToolTip": "Business\\Interfaces\\concesionario\\IClientBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:53:04.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VehicleSupplierBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\VehicleSupplierBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Implementacion\\concesionario\\VehicleSupplierBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\VehicleSupplierBusiness.cs",
+              "RelativeToolTip": "Business\\Implementacion\\concesionario\\VehicleSupplierBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:53:03.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VehicleBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\VehicleBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Implementacion\\concesionario\\VehicleBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\VehicleBusiness.cs",
+              "RelativeToolTip": "Business\\Implementacion\\concesionario\\VehicleBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:53:02.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\ClientBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Implementacion\\concesionario\\ClientBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\ClientBusiness.cs",
+              "RelativeToolTip": "Business\\Implementacion\\concesionario\\ClientBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:52:59.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SaleBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\SaleBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Implementacion\\concesionario\\SaleBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\SaleBusiness.cs",
+              "RelativeToolTip": "Business\\Implementacion\\concesionario\\SaleBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:52:56.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SaleDetailsBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\SaleDetailsBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Implementacion\\concesionario\\SaleDetailsBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\SaleDetailsBusiness.cs",
+              "RelativeToolTip": "Business\\Implementacion\\concesionario\\SaleDetailsBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:52:55.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SupplierBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\SupplierBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Implementacion\\concesionario\\SupplierBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\SupplierBusiness.cs",
+              "RelativeToolTip": "Business\\Implementacion\\concesionario\\SupplierBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:52:54.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Utilities\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Utilities\\Helper\\MappingProfile.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Utilities\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "Utilities\\Helper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:50:40.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IVehicleSupplierData.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Data\\Interfaces\\concesionario\\IVehicleSupplierData.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\concesionario\\IVehicleSupplierData.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Data\\Interfaces\\concesionario\\IVehicleSupplierData.cs",
+              "RelativeToolTip": "Data\\Interfaces\\concesionario\\IVehicleSupplierData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:50:18.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IVehicleData.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Data\\Interfaces\\concesionario\\IVehicleData.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\concesionario\\IVehicleData.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Data\\Interfaces\\concesionario\\IVehicleData.cs",
+              "RelativeToolTip": "Data\\Interfaces\\concesionario\\IVehicleData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:50:18.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ISupplierData.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Data\\Interfaces\\concesionario\\ISupplierData.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\concesionario\\ISupplierData.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Data\\Interfaces\\concesionario\\ISupplierData.cs",
+              "RelativeToolTip": "Data\\Interfaces\\concesionario\\ISupplierData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:50:16.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ISaleDetailsData.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Data\\Interfaces\\concesionario\\ISaleDetailsData.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\concesionario\\ISaleDetailsData.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Data\\Interfaces\\concesionario\\ISaleDetailsData.cs",
+              "RelativeToolTip": "Data\\Interfaces\\concesionario\\ISaleDetailsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:50:15.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IClientData.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Data\\Interfaces\\concesionario\\IClientData.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\concesionario\\IClientData.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Data\\Interfaces\\concesionario\\IClientData.cs",
+              "RelativeToolTip": "Data\\Interfaces\\concesionario\\IClientData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:50:11.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ISaleData.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Data\\Interfaces\\concesionario\\ISaleData.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\concesionario\\ISaleData.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Data\\Interfaces\\concesionario\\ISaleData.cs",
+              "RelativeToolTip": "Data\\Interfaces\\concesionario\\ISaleData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:50:10.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ISellerData.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Data\\Interfaces\\concesionario\\ISellerData.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\concesionario\\ISellerData.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Data\\Interfaces\\concesionario\\ISellerData.cs",
+              "RelativeToolTip": "Data\\Interfaces\\concesionario\\ISellerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:49:59.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SellerData.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Data\\Implementacion\\concesionario\\SellerData.cs",
+              "RelativeDocumentMoniker": "Data\\Implementacion\\concesionario\\SellerData.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Data\\Implementacion\\concesionario\\SellerData.cs",
+              "RelativeToolTip": "Data\\Implementacion\\concesionario\\SellerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:49:51.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Web\\Controllers\\Concesionario\\SellerController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Concesionario\\SellerController.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Web\\Controllers\\Concesionario\\SellerController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Concesionario\\SellerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:43:29.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ClientData.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Data\\Implementacion\\concesionario\\ClientData.cs",
+              "RelativeDocumentMoniker": "Data\\Implementacion\\concesionario\\ClientData.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Data\\Implementacion\\concesionario\\ClientData.cs",
+              "RelativeToolTip": "Data\\Implementacion\\concesionario\\ClientData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:34:49.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SaleDetailsConfiguration.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\DataInit\\SaleDetailsConfiguration.cs",
+              "RelativeDocumentMoniker": "Entitys\\DataInit\\SaleDetailsConfiguration.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\DataInit\\SaleDetailsConfiguration.cs",
+              "RelativeToolTip": "Entitys\\DataInit\\SaleDetailsConfiguration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:10:53.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SellerConfiguration.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\DataInit\\SellerConfiguration.cs",
+              "RelativeDocumentMoniker": "Entitys\\DataInit\\SellerConfiguration.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\DataInit\\SellerConfiguration.cs",
+              "RelativeToolTip": "Entitys\\DataInit\\SellerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:11:30.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\DbContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entitys\\DbContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\DbContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entitys\\DbContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:20:47.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "VehicleSupplierConfiguration.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\DataInit\\VehicleSupplierConfiguration.cs",
+              "RelativeDocumentMoniker": "Entitys\\DataInit\\VehicleSupplierConfiguration.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\DataInit\\VehicleSupplierConfiguration.cs",
+              "RelativeToolTip": "Entitys\\DataInit\\VehicleSupplierConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:11:17.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SaleConfiguration.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\DataInit\\SaleConfiguration.cs",
+              "RelativeDocumentMoniker": "Entitys\\DataInit\\SaleConfiguration.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\DataInit\\SaleConfiguration.cs",
+              "RelativeToolTip": "Entitys\\DataInit\\SaleConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:11:38.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Models\\Base\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Entitys\\Models\\Base\\BaseModel.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Models\\Base\\BaseModel.cs",
+              "RelativeToolTip": "Entitys\\Models\\Base\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:41:36.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "VehicleConfiguration.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\DataInit\\VehicleConfiguration.cs",
+              "RelativeDocumentMoniker": "Entitys\\DataInit\\VehicleConfiguration.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\DataInit\\VehicleConfiguration.cs",
+              "RelativeToolTip": "Entitys\\DataInit\\VehicleConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:11:08.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SupplierConfiguration.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\DataInit\\SupplierConfiguration.cs",
+              "RelativeDocumentMoniker": "Entitys\\DataInit\\SupplierConfiguration.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\DataInit\\SupplierConfiguration.cs",
+              "RelativeToolTip": "Entitys\\DataInit\\SupplierConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:11:01.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ClientConfiguration.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\DataInit\\ClientConfiguration.cs",
+              "RelativeDocumentMoniker": "Entitys\\DataInit\\ClientConfiguration.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\DataInit\\ClientConfiguration.cs",
+              "RelativeToolTip": "Entitys\\DataInit\\ClientConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:34:01.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SaleResponse.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Response\\SaleResponse.cs",
+              "RelativeDocumentMoniker": "Entitys\\Dtos\\Response\\SaleResponse.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Response\\SaleResponse.cs",
+              "RelativeToolTip": "Entitys\\Dtos\\Response\\SaleResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:50:52.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SaleDetailResponse.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Response\\SaleDetailResponse.cs",
+              "RelativeDocumentMoniker": "Entitys\\Dtos\\Response\\SaleDetailResponse.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Response\\SaleDetailResponse.cs",
+              "RelativeToolTip": "Entitys\\Dtos\\Response\\SaleDetailResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:50:44.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GenericModel.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Models\\Base\\GenericModel.cs",
+              "RelativeDocumentMoniker": "Entitys\\Models\\Base\\GenericModel.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Models\\Base\\GenericModel.cs",
+              "RelativeToolTip": "Entitys\\Models\\Base\\GenericModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:41:51.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "VehicleSupplierResponse.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Response\\VehicleSupplierResponse.cs",
+              "RelativeDocumentMoniker": "Entitys\\Dtos\\Response\\VehicleSupplierResponse.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Response\\VehicleSupplierResponse.cs",
+              "RelativeToolTip": "Entitys\\Dtos\\Response\\VehicleSupplierResponse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:51:28.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "VehicleResponse.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Response\\VehicleResponse.cs",
+              "RelativeDocumentMoniker": "Entitys\\Dtos\\Response\\VehicleResponse.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Response\\VehicleResponse.cs",
+              "RelativeToolTip": "Entitys\\Dtos\\Response\\VehicleResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:51:19.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SupplierResponse.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Response\\SupplierResponse.cs",
+              "RelativeDocumentMoniker": "Entitys\\Dtos\\Response\\SupplierResponse.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Response\\SupplierResponse.cs",
+              "RelativeToolTip": "Entitys\\Dtos\\Response\\SupplierResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:51:06.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SellerResponse.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Response\\SellerResponse.cs",
+              "RelativeDocumentMoniker": "Entitys\\Dtos\\Response\\SellerResponse.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Response\\SellerResponse.cs",
+              "RelativeToolTip": "Entitys\\Dtos\\Response\\SellerResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:50:59.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ClientResponse.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Response\\ClientResponse.cs",
+              "RelativeDocumentMoniker": "Entitys\\Dtos\\Response\\ClientResponse.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Response\\ClientResponse.cs",
+              "RelativeToolTip": "Entitys\\Dtos\\Response\\ClientResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:50:10.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "VehicleSupplierRequest.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Request\\VehicleSupplierRequest.cs",
+              "RelativeDocumentMoniker": "Entitys\\Dtos\\Request\\VehicleSupplierRequest.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Request\\VehicleSupplierRequest.cs",
+              "RelativeToolTip": "Entitys\\Dtos\\Request\\VehicleSupplierRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:47:35.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "VehicleRequest.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Request\\VehicleRequest.cs",
+              "RelativeDocumentMoniker": "Entitys\\Dtos\\Request\\VehicleRequest.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Request\\VehicleRequest.cs",
+              "RelativeToolTip": "Entitys\\Dtos\\Request\\VehicleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:47:27.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SupplierRequest.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Request\\SupplierRequest.cs",
+              "RelativeDocumentMoniker": "Entitys\\Dtos\\Request\\SupplierRequest.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Request\\SupplierRequest.cs",
+              "RelativeToolTip": "Entitys\\Dtos\\Request\\SupplierRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:47:15.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SellerRequest.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Request\\SellerRequest.cs",
+              "RelativeDocumentMoniker": "Entitys\\Dtos\\Request\\SellerRequest.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Request\\SellerRequest.cs",
+              "RelativeToolTip": "Entitys\\Dtos\\Request\\SellerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:47:05.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SaleRequest.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Request\\SaleRequest.cs",
+              "RelativeDocumentMoniker": "Entitys\\Dtos\\Request\\SaleRequest.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Request\\SaleRequest.cs",
+              "RelativeToolTip": "Entitys\\Dtos\\Request\\SaleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:46:57.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SaleDetailRequest.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Request\\SaleDetailRequest.cs",
+              "RelativeDocumentMoniker": "Entitys\\Dtos\\Request\\SaleDetailRequest.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Request\\SaleDetailRequest.cs",
+              "RelativeToolTip": "Entitys\\Dtos\\Request\\SaleDetailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:46:49.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ClientRequest.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Request\\ClientRequest.cs",
+              "RelativeDocumentMoniker": "Entitys\\Dtos\\Request\\ClientRequest.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\Dtos\\Request\\ClientRequest.cs",
+              "RelativeToolTip": "Entitys\\Dtos\\Request\\ClientRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:43:58.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

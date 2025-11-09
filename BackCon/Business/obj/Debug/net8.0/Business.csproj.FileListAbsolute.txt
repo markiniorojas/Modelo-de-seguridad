@@ -1,0 +1,17 @@
+C:\ADSO2025\BackCon\Business\bin\Debug\net8.0\Business.deps.json
+C:\ADSO2025\BackCon\Business\bin\Debug\net8.0\Business.dll
+C:\ADSO2025\BackCon\Business\bin\Debug\net8.0\Business.pdb
+C:\ADSO2025\BackCon\Business\bin\Debug\net8.0\Data.dll
+C:\ADSO2025\BackCon\Business\bin\Debug\net8.0\Entitys.dll
+C:\ADSO2025\BackCon\Business\bin\Debug\net8.0\Data.pdb
+C:\ADSO2025\BackCon\Business\bin\Debug\net8.0\Entitys.pdb
+C:\ADSO2025\BackCon\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\ADSO2025\BackCon\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADSO2025\BackCon\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\ADSO2025\BackCon\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\ADSO2025\BackCon\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\ADSO2025\BackCon\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\ADSO2025\BackCon\Business\obj\Debug\net8.0\Business.dll
+C:\ADSO2025\BackCon\Business\obj\Debug\net8.0\refint\Business.dll
+C:\ADSO2025\BackCon\Business\obj\Debug\net8.0\Business.pdb
+C:\ADSO2025\BackCon\Business\obj\Debug\net8.0\ref\Business.dll

@@ -1,0 +1,497 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ADSO2025\\BackCon\\Entitys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BA5480-E4D4-4A16-B04F-8426D2C3BABE}|Entitys.csproj|c:\\adso2025\\backcon\\entitys\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BA5480-E4D4-4A16-B04F-8426D2C3BABE}|Entitys.csproj|solutionrelative:dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8F27FA-CAFC-4D59-806D-FF798E4FFAE1}|..\\Web\\Web.csproj|c:\\adso2025\\backcon\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8F27FA-CAFC-4D59-806D-FF798E4FFAE1}|..\\Web\\Web.csproj|c:\\adso2025\\backcon\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2689EDA8-20E1-43BC-B86E-6D85B9CA0F5C}|..\\Business\\Business.csproj|c:\\adso2025\\backcon\\business\\implementacion\\concesionario\\supplierbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2689EDA8-20E1-43BC-B86E-6D85B9CA0F5C}|..\\Business\\Business.csproj|c:\\adso2025\\backcon\\business\\implementacion\\concesionario\\salebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2689EDA8-20E1-43BC-B86E-6D85B9CA0F5C}|..\\Business\\Business.csproj|c:\\adso2025\\backcon\\business\\implementacion\\concesionario\\vehiclesupplierbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8F27FA-CAFC-4D59-806D-FF798E4FFAE1}|..\\Web\\Web.csproj|c:\\adso2025\\backcon\\web\\controllers\\concesionario\\vehiclesuppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2689EDA8-20E1-43BC-B86E-6D85B9CA0F5C}|..\\Business\\Business.csproj|c:\\adso2025\\backcon\\business\\implementacion\\concesionario\\vehiclebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2689EDA8-20E1-43BC-B86E-6D85B9CA0F5C}|..\\Business\\Business.csproj|c:\\adso2025\\backcon\\business\\implementacion\\concesionario\\sellerbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2689EDA8-20E1-43BC-B86E-6D85B9CA0F5C}|..\\Business\\Business.csproj|c:\\adso2025\\backcon\\business\\implementacion\\concesionario\\saledetailsbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2689EDA8-20E1-43BC-B86E-6D85B9CA0F5C}|..\\Business\\Business.csproj|c:\\adso2025\\backcon\\business\\implementacion\\concesionario\\clientbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\AppData\\Local\\Temp\\tmpD95A.tmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8F27FA-CAFC-4D59-806D-FF798E4FFAE1}|..\\Web\\Web.csproj|c:\\adso2025\\backcon\\web\\controllers\\concesionario\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2689EDA8-20E1-43BC-B86E-6D85B9CA0F5C}|..\\Business\\Business.csproj|c:\\adso2025\\backcon\\business\\interfaces\\concesionario\\ivehiclesupplierbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2689EDA8-20E1-43BC-B86E-6D85B9CA0F5C}|..\\Business\\Business.csproj|c:\\adso2025\\backcon\\business\\interfaces\\concesionario\\ivehiclebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8F27FA-CAFC-4D59-806D-FF798E4FFAE1}|..\\Web\\Web.csproj|c:\\adso2025\\backcon\\web\\controllers\\concesionario\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2689EDA8-20E1-43BC-B86E-6D85B9CA0F5C}|..\\Business\\Business.csproj|c:\\adso2025\\backcon\\business\\interfaces\\concesionario\\isupplierbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2689EDA8-20E1-43BC-B86E-6D85B9CA0F5C}|..\\Business\\Business.csproj|c:\\adso2025\\backcon\\business\\interfaces\\concesionario\\isellerbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8F27FA-CAFC-4D59-806D-FF798E4FFAE1}|..\\Web\\Web.csproj|c:\\adso2025\\backcon\\web\\controllers\\concesionario\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8F27FA-CAFC-4D59-806D-FF798E4FFAE1}|..\\Web\\Web.csproj|c:\\adso2025\\backcon\\web\\controllers\\concesionario\\saledetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2689EDA8-20E1-43BC-B86E-6D85B9CA0F5C}|..\\Business\\Business.csproj|c:\\adso2025\\backcon\\business\\interfaces\\concesionario\\isaledetailsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2689EDA8-20E1-43BC-B86E-6D85B9CA0F5C}|..\\Business\\Business.csproj|c:\\adso2025\\backcon\\business\\interfaces\\concesionario\\iclientbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2689EDA8-20E1-43BC-B86E-6D85B9CA0F5C}|..\\Business\\Business.csproj|c:\\adso2025\\backcon\\business\\interfaces\\concesionario\\isalebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8F27FA-CAFC-4D59-806D-FF798E4FFAE1}|..\\Web\\Web.csproj|c:\\adso2025\\backcon\\web\\controllers\\concesionario\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8F27FA-CAFC-4D59-806D-FF798E4FFAE1}|..\\Web\\Web.csproj|c:\\adso2025\\backcon\\web\\controllers\\concesionario\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2689EDA8-20E1-43BC-B86E-6D85B9CA0F5C}|..\\Business\\Business.csproj|c:\\adso2025\\backcon\\business\\implementacion\\base\\basebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74A1D81-D683-4ADB-8C95-62EC5B578E4B}|..\\Data\\Data.csproj|c:\\adso2025\\backcon\\data\\implementacion\\concesionario\\clientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDC6FA6-26BC-458A-AA52-E68A44D6FF7F}|..\\Utilities\\Utilities.csproj|c:\\adso2025\\backcon\\utilities\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8F27FA-CAFC-4D59-806D-FF798E4FFAE1}|..\\Web\\Web.csproj|c:\\adso2025\\backcon\\web\\controllers\\base\\genericcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2689EDA8-20E1-43BC-B86E-6D85B9CA0F5C}|..\\Business\\Business.csproj|c:\\adso2025\\backcon\\business\\interfaces\\base\\ibasebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74A1D81-D683-4ADB-8C95-62EC5B578E4B}|..\\Data\\Data.csproj|c:\\adso2025\\backcon\\data\\interfaces\\base\\abasedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Entitys\\DbContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DbContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Entitys\\DbContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DbContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:02:27.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Web\\Controllers\\Concesionario\\SellerController.cs",
+              "RelativeDocumentMoniker": "..\\Web\\Controllers\\Concesionario\\SellerController.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Web\\Controllers\\Concesionario\\SellerController.cs",
+              "RelativeToolTip": "..\\Web\\Controllers\\Concesionario\\SellerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:40:59.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Web\\Controllers\\Concesionario\\SupplierController.cs",
+              "RelativeDocumentMoniker": "..\\Web\\Controllers\\Concesionario\\SupplierController.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Web\\Controllers\\Concesionario\\SupplierController.cs",
+              "RelativeToolTip": "..\\Web\\Controllers\\Concesionario\\SupplierController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:41:56.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupplierBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\SupplierBusiness.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Implementacion\\concesionario\\SupplierBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\SupplierBusiness.cs",
+              "RelativeToolTip": "..\\Business\\Implementacion\\concesionario\\SupplierBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:12:37.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Web\\Program.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Web\\Program.cs",
+              "RelativeToolTip": "..\\Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:13:10.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SaleDetailsController.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Web\\Controllers\\Concesionario\\SaleDetailsController.cs",
+              "RelativeDocumentMoniker": "..\\Web\\Controllers\\Concesionario\\SaleDetailsController.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Web\\Controllers\\Concesionario\\SaleDetailsController.cs",
+              "RelativeToolTip": "..\\Web\\Controllers\\Concesionario\\SaleDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:40:06.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Web\\Controllers\\Concesionario\\SaleController.cs",
+              "RelativeDocumentMoniker": "..\\Web\\Controllers\\Concesionario\\SaleController.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Web\\Controllers\\Concesionario\\SaleController.cs",
+              "RelativeToolTip": "..\\Web\\Controllers\\Concesionario\\SaleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:39:14.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Web\\Controllers\\Concesionario\\ClientController.cs",
+              "RelativeDocumentMoniker": "..\\Web\\Controllers\\Concesionario\\ClientController.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Web\\Controllers\\Concesionario\\ClientController.cs",
+              "RelativeToolTip": "..\\Web\\Controllers\\Concesionario\\ClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:02:31.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClientData.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Data\\Implementacion\\concesionario\\ClientData.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Implementacion\\concesionario\\ClientData.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Data\\Implementacion\\concesionario\\ClientData.cs",
+              "RelativeToolTip": "..\\Data\\Implementacion\\concesionario\\ClientData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:25:26.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Utilities\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\Utilities\\Helper\\MappingProfile.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Utilities\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "..\\Utilities\\Helper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:24:59.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\Base\\BaseBusiness.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Implementacion\\Base\\BaseBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\Base\\BaseBusiness.cs",
+              "RelativeToolTip": "..\\Business\\Implementacion\\Base\\BaseBusiness.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wC8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:20:35.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IBaseBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\Base\\IBaseBusiness.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Interfaces\\Base\\IBaseBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\Base\\IBaseBusiness.cs",
+              "RelativeToolTip": "..\\Business\\Interfaces\\Base\\IBaseBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:18:36.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GenericController.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Web\\Controllers\\Base\\GenericController.cs",
+              "RelativeDocumentMoniker": "..\\Web\\Controllers\\Base\\GenericController.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Web\\Controllers\\Base\\GenericController.cs",
+              "RelativeToolTip": "..\\Web\\Controllers\\Base\\GenericController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:11:03.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ABaseData.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Data\\Interfaces\\Base\\ABaseData.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Interfaces\\Base\\ABaseData.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Data\\Interfaces\\Base\\ABaseData.cs",
+              "RelativeToolTip": "..\\Data\\Interfaces\\Base\\ABaseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:04:35.485Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleSupplierBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\VehicleSupplierBusiness.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Implementacion\\concesionario\\VehicleSupplierBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\VehicleSupplierBusiness.cs",
+              "RelativeToolTip": "..\\Business\\Implementacion\\concesionario\\VehicleSupplierBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:52:16.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehicleSupplierController.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Web\\Controllers\\Concesionario\\VehicleSupplierController.cs",
+              "RelativeDocumentMoniker": "..\\Web\\Controllers\\Concesionario\\VehicleSupplierController.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Web\\Controllers\\Concesionario\\VehicleSupplierController.cs",
+              "RelativeToolTip": "..\\Web\\Controllers\\Concesionario\\VehicleSupplierController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:05:31.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\SaleBusiness.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Implementacion\\concesionario\\SaleBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\SaleBusiness.cs",
+              "RelativeToolTip": "..\\Business\\Implementacion\\concesionario\\SaleBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:08:59.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Web\\appsettings.json",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Web\\appsettings.json",
+              "RelativeToolTip": "..\\Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T17:05:30.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehicleBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\VehicleBusiness.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Implementacion\\concesionario\\VehicleBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\VehicleBusiness.cs",
+              "RelativeToolTip": "..\\Business\\Implementacion\\concesionario\\VehicleBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:12:38.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SellerBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\SellerBusiness.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Implementacion\\concesionario\\SellerBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\SellerBusiness.cs",
+              "RelativeToolTip": "..\\Business\\Implementacion\\concesionario\\SellerBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:12:19.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaleDetailsBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\SaleDetailsBusiness.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Implementacion\\concesionario\\SaleDetailsBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\SaleDetailsBusiness.cs",
+              "RelativeToolTip": "..\\Business\\Implementacion\\concesionario\\SaleDetailsBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:11:58.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\ClientBusiness.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Implementacion\\concesionario\\ClientBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Implementacion\\concesionario\\ClientBusiness.cs",
+              "RelativeToolTip": "..\\Business\\Implementacion\\concesionario\\ClientBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:08:51.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IVehicleSupplierBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\IVehicleSupplierBusiness.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Interfaces\\concesionario\\IVehicleSupplierBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\IVehicleSupplierBusiness.cs",
+              "RelativeToolTip": "..\\Business\\Interfaces\\concesionario\\IVehicleSupplierBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:51:48.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IVehicleBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\IVehicleBusiness.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Interfaces\\concesionario\\IVehicleBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\IVehicleBusiness.cs",
+              "RelativeToolTip": "..\\Business\\Interfaces\\concesionario\\IVehicleBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:51:28.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "tmpD95A.tmp.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\AppData\\Local\\Temp\\tmpD95A.tmp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Usuario\\AppData\\Local\\Temp\\tmpD95A.tmp.cs",
+              "ToolTip": "C:\\Users\\Usuario\\AppData\\Local\\Temp\\tmpD95A.tmp.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Usuario\\AppData\\Local\\Temp\\tmpD95A.tmp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:48:27.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ISupplierBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\ISupplierBusiness.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Interfaces\\concesionario\\ISupplierBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\ISupplierBusiness.cs",
+              "RelativeToolTip": "..\\Business\\Interfaces\\concesionario\\ISupplierBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:51:08.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISellerBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\ISellerBusiness.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Interfaces\\concesionario\\ISellerBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\ISellerBusiness.cs",
+              "RelativeToolTip": "..\\Business\\Interfaces\\concesionario\\ISellerBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:50:49.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Web\\Controllers\\Concesionario\\VehicleController.cs",
+              "RelativeDocumentMoniker": "..\\Web\\Controllers\\Concesionario\\VehicleController.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Web\\Controllers\\Concesionario\\VehicleController.cs",
+              "RelativeToolTip": "..\\Web\\Controllers\\Concesionario\\VehicleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:03:45.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISaleDetailsData.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\ISaleDetailsData.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Interfaces\\concesionario\\ISaleDetailsData.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\ISaleDetailsData.cs",
+              "RelativeToolTip": "..\\Business\\Interfaces\\concesionario\\ISaleDetailsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:50:09.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ISaleBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\ISaleBusiness.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Interfaces\\concesionario\\ISaleBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\ISaleBusiness.cs",
+              "RelativeToolTip": "..\\Business\\Interfaces\\concesionario\\ISaleBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:50:06.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IClientBusiness.cs",
+              "DocumentMoniker": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\IClientBusiness.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Interfaces\\concesionario\\IClientBusiness.cs",
+              "ToolTip": "C:\\ADSO2025\\BackCon\\Business\\Interfaces\\concesionario\\IClientBusiness.cs",
+              "RelativeToolTip": "..\\Business\\Interfaces\\concesionario\\IClientBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:49:05.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

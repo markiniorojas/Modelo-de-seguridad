@@ -1,0 +1,723 @@
+[
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Client, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.ClientRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.ClientResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "api/Client",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Entitys.Dtos.Response.ClientResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Client, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.ClientRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.ClientResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Post",
+    "RelativePath": "api/Client",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entitys.Dtos.Request.ClientRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Entitys.Dtos.Response.ClientResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Client, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.ClientRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.ClientResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "api/Client/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Entitys.Dtos.Response.ClientResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Client, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.ClientRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.ClientResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Put",
+    "RelativePath": "api/Client/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Entitys.Dtos.Request.ClientRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Client, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.ClientRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.ClientResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Client/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Sale, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SaleRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SaleResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "api/Sale",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Entitys.Dtos.Response.SaleResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Sale, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SaleRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SaleResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Post",
+    "RelativePath": "api/Sale",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entitys.Dtos.Request.SaleRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Entitys.Dtos.Response.SaleResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Sale, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SaleRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SaleResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "api/Sale/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Entitys.Dtos.Response.SaleResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Sale, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SaleRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SaleResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Put",
+    "RelativePath": "api/Sale/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Entitys.Dtos.Request.SaleRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Sale, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SaleRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SaleResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Sale/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.SaleDetails, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SaleDetailRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SaleDetailResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "api/SaleDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Entitys.Dtos.Response.SaleDetailResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.SaleDetails, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SaleDetailRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SaleDetailResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Post",
+    "RelativePath": "api/SaleDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entitys.Dtos.Request.SaleDetailRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Entitys.Dtos.Response.SaleDetailResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.SaleDetails, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SaleDetailRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SaleDetailResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "api/SaleDetails/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Entitys.Dtos.Response.SaleDetailResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.SaleDetails, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SaleDetailRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SaleDetailResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Put",
+    "RelativePath": "api/SaleDetails/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Entitys.Dtos.Request.SaleDetailRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.SaleDetails, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SaleDetailRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SaleDetailResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/SaleDetails/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Seller, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SellerRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SellerResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "api/Seller",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Entitys.Dtos.Response.SellerResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Seller, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SellerRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SellerResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Post",
+    "RelativePath": "api/Seller",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entitys.Dtos.Request.SellerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Entitys.Dtos.Response.SellerResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Seller, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SellerRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SellerResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "api/Seller/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Entitys.Dtos.Response.SellerResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Seller, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SellerRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SellerResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Put",
+    "RelativePath": "api/Seller/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Entitys.Dtos.Request.SellerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Seller, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SellerRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SellerResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Seller/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Supplier, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SupplierRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SupplierResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "api/Supplier",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Entitys.Dtos.Response.SupplierResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Supplier, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SupplierRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SupplierResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Post",
+    "RelativePath": "api/Supplier",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entitys.Dtos.Request.SupplierRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Entitys.Dtos.Response.SupplierResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Supplier, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SupplierRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SupplierResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "api/Supplier/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Entitys.Dtos.Response.SupplierResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Supplier, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SupplierRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SupplierResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Put",
+    "RelativePath": "api/Supplier/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Entitys.Dtos.Request.SupplierRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Supplier, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.SupplierRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.SupplierResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Supplier/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Vehicle, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.VehicleRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.VehicleResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "api/Vehicle",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Entitys.Dtos.Response.VehicleResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Vehicle, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.VehicleRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.VehicleResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Post",
+    "RelativePath": "api/Vehicle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entitys.Dtos.Request.VehicleRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Entitys.Dtos.Response.VehicleResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Vehicle, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.VehicleRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.VehicleResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "api/Vehicle/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Entitys.Dtos.Response.VehicleResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Vehicle, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.VehicleRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.VehicleResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Put",
+    "RelativePath": "api/Vehicle/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Entitys.Dtos.Request.VehicleRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.Vehicle, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.VehicleRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.VehicleResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Vehicle/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.VehicleSupplier, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.VehicleSupplierRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.VehicleSupplierResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "api/VehicleSupplier",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Entitys.Dtos.Response.VehicleSupplierResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.VehicleSupplier, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.VehicleSupplierRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.VehicleSupplierResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Post",
+    "RelativePath": "api/VehicleSupplier",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entitys.Dtos.Request.VehicleSupplierRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Entitys.Dtos.Response.VehicleSupplierResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.VehicleSupplier, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.VehicleSupplierRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.VehicleSupplierResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "api/VehicleSupplier/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Entitys.Dtos.Response.VehicleSupplierResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.VehicleSupplier, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.VehicleSupplierRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.VehicleSupplierResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Put",
+    "RelativePath": "api/VehicleSupplier/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Entitys.Dtos.Request.VehicleSupplierRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Base.GenericController\u00603[[Entitys.Models.VehicleSupplier, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Request.VehicleSupplierRequest, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entitys.Dtos.Response.VehicleSupplierResponse, Entitys, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/VehicleSupplier/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
